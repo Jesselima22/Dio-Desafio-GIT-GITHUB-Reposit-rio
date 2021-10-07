@@ -1,2 +1,2 @@
-# Dio-Desafio-GIT-GITHUB-Repositio
+# Dio-Desafio-GIT-GITHUB-Repositório
 Aula Digital inovation one - Desafio Reposítório
